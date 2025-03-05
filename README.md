@@ -42,10 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yash27007/yash27007/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left"></p>
 
 ###
