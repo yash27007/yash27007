@@ -127,7 +127,9 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash27007&repo=meal-planner&theme=dark&hide_border=true" />
       </a>
     </td>
-    <td align="center" width="50%">
+  </tr>
+  <tr>
+        <td align="center" width="50%">
       <a href="https://github.com/yash27007/meal-planner">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash27007&repo=bloom-iq&theme=dark&hide_border=true" />
       </a>
