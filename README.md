@@ -113,7 +113,7 @@
 
 ---
 
-### S E L E C T E D &nbsp;&nbsp; C O D E &nbsp;&nbsp; (O P E N &nbsp; S O U R C E)
+### F E A T U R E D &nbsp;&nbsp; P R O J E C T S
 
 <table align="center">
   <tr>
@@ -125,6 +125,16 @@
     <td align="center" width="50%">
       <a href="https://github.com/yash27007/meal-planner">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash27007&repo=meal-planner&theme=dark&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/yash27007/meal-planner">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash27007&repo=bloom-iq&theme=dark&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/yash27007/meal-planner">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash27007&repo=ship-routing&theme=dark&hide_border=true" />
       </a>
     </td>
   </tr>
