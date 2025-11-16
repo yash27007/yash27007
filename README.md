@@ -12,7 +12,7 @@
   <a href="https://instagram.com/yashwanth.aravind">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/yashwantharavind">
+  <a href="https://linkedin.in/yashwantharavind">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:work.yashwantharavind007@gmail.com">
@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="mailto:work.yashwantharavind007@gmail.com">
-    <img src="https://img.shields.io/badge/Available%20For%20Freelance%20Projects-Hire%20Me-success?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Available%20For%20Freelance%20Projects-Hire%20Me-success?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
 </p>
 
@@ -87,13 +87,15 @@
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black" />
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
 
 <h4 align="center">BACKEND ARCHITECTURE</h4>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white" />
+<img src="httpsimg.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
 
 <h4 align="center">FRONTEND ECOSYSTEM</h4>
@@ -129,13 +131,13 @@
     </td>
   </tr>
   <tr>
-        <td align="center" width="50%">
-      <a href="https://github.com/yash27007/meal-planner">
+    <td align="center" width="50%">
+      <a href="https://github.com/yash27007/bloom-iq">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash27007&repo=bloom-iq&theme=dark&hide_border=true" />
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/yash27007/meal-planner">
+      <a href="https://github.com/yash27007/ship-routing">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash27007&repo=ship-routing&theme=dark&hide_border=true" />
       </a>
     </td>
