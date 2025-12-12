@@ -9,10 +9,10 @@
 <br/>
 
 <p align="center">
-  <a href="https://instagram.com/yashwanth.aravind">
+  <a href="https://www.instagram.com/yashwanth.aravind">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://linkedin.in/yashwantharavind">
+  <a href="https://www.linkedin.com/in/yashwantharavind">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:work.yashwantharavind007@gmail.com">
@@ -75,40 +75,50 @@
 <br/>
 
 <h4 align="center">LANGUAGES</h4>
+<p align="center">
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+</p>
 
 <h4 align="center">ARTIFICIAL INTELLIGENCE</h4>
+<p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black" />
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
+<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+</p>
 
 <h4 align="center">BACKEND ARCHITECTURE</h4>
+<p align="center">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="httpsimg.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white" />
+<img src="https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
+</p>
 
 <h4 align="center">FRONTEND ECOSYSTEM</h4>
+<p align="center">
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
+</p>
 
 <h4 align="center">DEVOPS & CLOUD</h4>
+<p align="center">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
 <br/>
 <br/>
@@ -153,14 +163,51 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=yash27007&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Yashwanth's GitHub Stats" style="width: 100%;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=yash27007&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Yashwanth's GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash27007&theme=dark&hide_border=true&layout=compact" alt="Yashwanth's Top Languages" style="width: 100%;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash27007&theme=dark&hide_border=true&layout=compact" alt="Yashwanth's Top Languages" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash27007&theme=dark&hide_border=true" alt="Streak Stats" style="width: 80%; margin-top: 20px;" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash27007&theme=dark&hide_border=true" alt="Streak Stats" />
+</p>
+
+---
+
+### 📝 Maintainer Notes
+
+<details>
+<summary><b>How to Update Dynamic Stats</b></summary>
+
+<br/>
+
+This README uses several external services to display dynamic GitHub statistics:
+
+**GitHub Readme Stats** (for stats cards and repo pins):
+- Service: `https://github-readme-stats.vercel.app`
+- Update username by changing the `username` parameter in URLs
+- Current username: `yash27007`
+- Documentation: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+**GitHub Readme Streak Stats** (for contribution streaks):
+- Service: `https://github-readme-streak-stats.herokuapp.com`
+- Update username by changing the `user` parameter
+- Current username: `yash27007`
+- Documentation: [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+**Typing SVG** (for animated header):
+- Service: `https://readme-typing-svg.demolab.com`
+- Customize text by editing the `lines` parameter
+- Documentation: [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+
+**Shields.io** (for badges):
+- Service: `https://img.shields.io`
+- Create custom badges using the format: `/badge/<LABEL>-<MESSAGE>-<COLOR>`
+- Documentation: [shields.io](https://shields.io)
+
+</details>
 
 </div>
