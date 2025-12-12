@@ -3,7 +3,7 @@
 # Yashwanth Aravind
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=FF7F50&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Core+AI+Engineer;Building+Agentic+Systems;Freelance+Consultant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=FF7F50&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Core+AI+Engineer[...]
 </a>
 
 <br/>
@@ -172,6 +172,5 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash27007&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=yash27007&theme=dark&hide_border=true" alt="Streak Stats" />
 </p>
-
