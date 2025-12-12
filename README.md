@@ -175,39 +175,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash27007&theme=dark&hide_border=true" alt="Streak Stats" />
 </p>
 
----
-
-### 📝 Maintainer Notes
-
-<details>
-<summary><b>How to Update Dynamic Stats</b></summary>
-
-<br/>
-
-This README uses several external services to display dynamic GitHub statistics:
-
-**GitHub Readme Stats** (for stats cards and repo pins):
-- Service: `https://github-readme-stats.vercel.app`
-- Update username by changing the `username` parameter in URLs
-- Current username: `yash27007`
-- Documentation: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-
-**GitHub Readme Streak Stats** (for contribution streaks):
-- Service: `https://github-readme-streak-stats.herokuapp.com`
-- Update username by changing the `user` parameter
-- Current username: `yash27007`
-- Documentation: [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-**Typing SVG** (for animated header):
-- Service: `https://readme-typing-svg.demolab.com`
-- Customize text by editing the `lines` parameter
-- Documentation: [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-
-**Shields.io** (for badges):
-- Service: `https://img.shields.io`
-- Create custom badges using the format: `/badge/<LABEL>-<MESSAGE>-<COLOR>`
-- Documentation: [shields.io](https://shields.io)
-
-</details>
-
-</div>
