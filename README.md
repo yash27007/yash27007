@@ -9,10 +9,10 @@
 <br/>
 
 <p align="center">
-  <a href="https://instagram.com/yashwanth.aravind">
+  <a href="https://www.instagram.com/yashwanth.aravind">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://linkedin.in/yashwantharavind">
+  <a href="https://www.linkedin.com/in/yashwantharavind">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:work.yashwantharavind007@gmail.com">
