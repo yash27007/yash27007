@@ -3,7 +3,7 @@
 # Yashwanth Aravind
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=FF7F50&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Core+AI+Engineer[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=FF7F50&center=true&vCenter=true&width=600&lines=Full+Stack+Developer%3BCore+AI+Engineer%3BRobotics+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +24,7 @@
 
 <p align="center" style="max-width: 600px;">
   <b>I engineer intelligence.</b><br/>
-  Bridging robust web architecture with cutting-edge RAG & Agentic systems. <br/>
+  Bridging robust web architecture with cutting-edge RAG and Agentic systems.<br/>
   Focusing on high-performance engineering that scales.
 </p>
 
@@ -32,11 +32,7 @@
 
 ---
 
-### 🚀 &nbsp; I N D U S T R Y &nbsp;&nbsp; D E P L O Y M E N T S
-
-<p align="center">
-  <em>Delivering production-grade solutions for startups and enterprises.</em>
-</p>
+### INDUSTRY DEPLOYMENTS
 
 <table align="center">
   <tr>
@@ -50,14 +46,14 @@
     </td>
     <td width="250" align="center">
       <a href="https://sparkzkalasalingam.in"><b>Sparkz</b></a><br/>
-      Event Management System
+      Event Management
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <b> Custom RAG Systems</b><br/>
-  Built tailored Retrieval-Augmented Generation architectures for industry-specific knowledge bases.
+  <b>Architecting Custom RAG Systems</b><br/>
+  Delivering production-grade AI architectures and scalable full-stack solutions.
 </p>
 
 <br/>
@@ -70,62 +66,23 @@
 
 ---
 
-### T E C H N I C A L &nbsp;&nbsp; A R S E N A L
+### TOOLS AND TECH I USE TO BUILD STUFF !!
 
-<br/>
+<div align="center">
 
-<h4 align="center">LANGUAGES</h4>
-<p align="center">
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-</p>
+| Category | Technologies and Tools |
+| :--- | :--- |
+| **Core Languages** | <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow" /> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" /> |
+| **Intelligence** | <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> |
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" /> <img src="https://img.shields.io/badge/gRPC-89CFF0?style=flat-square&logo=grpc&logoColor=white" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" /> |
+| **Infrastructure** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> |
 
-<h4 align="center">ARTIFICIAL INTELLIGENCE</h4>
-<p align="center">
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-</p>
-
-<h4 align="center">BACKEND ARCHITECTURE</h4>
-<p align="center">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-<img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
-</p>
-
-<h4 align="center">FRONTEND ECOSYSTEM</h4>
-<p align="center">
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
-</p>
-
-<h4 align="center">DEVOPS & CLOUD</h4>
-<p align="center">
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
-<br/>
-<br/>
+</div>
 
 ---
 
-### F E A T U R E D &nbsp;&nbsp; P R O J E C T S
+### FEATURED PROJECTS
 
 <table align="center">
   <tr>
@@ -158,19 +115,21 @@
 
 ---
 
-### P E R F O R M A N C E &nbsp;&nbsp; M E T R I C S
+### PERFORMANCE METRICS
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=yash27007&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Yashwanth's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=yash27007&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash27007&theme=dark&hide_border=true&layout=compact" alt="Yashwanth's Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash27007&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yash27007&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash27007&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
+</div>
