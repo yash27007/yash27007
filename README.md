@@ -58,39 +58,11 @@ Engineering AI systems, full-stack products, and scalable agentic pipelines. Foc
       <p><code>Bun</code> · <code>Next.js</code> · <code>Inngest</code> · <code>tRPC</code> · <code>TanStack Query</code></p>
       <a href="https://github.com/yash27007/relay">Repository</a>
     </td>
-    <td width="50%" valign="top">
-      <h4>Optimal Ship Routing</h4>
-      <p>Hybrid path-planning algorithm combining RRT* and D* to optimize maritime navigation across the Indian Ocean.</p>
-      <p><code>Python</code> · <code>C++</code> · <code>RRT*</code> · <code>D*</code> · <code>NumPy</code></p>
-      <a href="https://github.com/yash27007/ship-routing">Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+        <td width="50%" valign="top">
       <h4>Pages</h4>
       <p>Conflict-free real-time collaborative document editor with presence tracking and document state synchronization.</p>
       <p><code>Next.js</code> · <code>TypeScript</code> · <code>Liveblocks</code> · <code>Tiptap</code></p>
       <a href="https://github.com/yash27007/google-docs-clone">Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Web Scraper CLI</h4>
-      <p>Concurrent command-line web scraper written in Go featuring recursive crawling, link tracking, JSON/Markdown export, and local caching.</p>
-      <p><code>Go</code> · <code>Concurrency</code> · <code>CLI</code></p>
-      <a href="https://github.com/yash27007/web-scraper">Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Anvaya</h4>
-      <p>Industrial RAG backend system for enterprise chatbots, grounding model outputs directly in organizational documentation.</p>
-      <p><code>TypeScript</code> · <code>Node.js</code> · <code>RAG</code></p>
-      <a href="https://github.com/yash27007/anvaya">Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Tinyhog</h4>
-      <p>Self-hosted miniature analytics engine and feature-flagging platform capturing events and serving percentage-based rollout flags.</p>
-      <p><code>Python</code> · <code>Analytics</code> · <code>Feature Flags</code></p>
-      <a href="https://github.com/yash27007/tinyhog">Repository</a>
     </td>
   </tr>
 </table>
