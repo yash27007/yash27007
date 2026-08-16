@@ -3,133 +3,111 @@
 # Yashwanth Aravind
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=FF7F50&center=true&vCenter=true&width=600&lines=Full+Stack+Developer%3BCore+AI+Engineer%3BRobotics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF7F50&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Core+AI+Engineer;Robotics+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <p align="center">
-  <a href="https://www.instagram.com/yashwanth.aravind">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  <a href="https://yashwanth-aravind-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-yash--aravind-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/yash27007">
+    <img src="https://img.shields.io/badge/GitHub-yash27007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/yashwantharavind">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-yashwantharavind-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:work.yashwantharavind007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-work.yashwantharavind007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-<br/>
-
-<p align="center" style="max-width: 600px;">
-  <b>I engineer intelligence.</b><br/>
-  Bridging robust web architecture with cutting-edge RAG and Agentic systems.<br/>
-  Focusing on high-performance engineering that scales.
-</p>
-
-<br/>
-
----
-
-### INDUSTRY DEPLOYMENTS
-
-<table align="center">
-  <tr>
-    <td width="250" align="center">
-      <a href="https://savemom.in"><b>SaveMom.in</b></a><br/>
-      HealthTech
-    </td>
-    <td width="250" align="center">
-      <a href="https://zorp.in"><b>Zorp.in</b></a><br/>
-      Operations Platform
-    </td>
-    <td width="250" align="center">
-      <a href="https://sparkzkalasalingam.in"><b>Sparkz</b></a><br/>
-      Event Management
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <b>Architecting Custom RAG Systems</b><br/>
-  Delivering production-grade AI architectures and scalable full-stack solutions.
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="mailto:work.yashwantharavind007@gmail.com">
-    <img src="https://img.shields.io/badge/Available%20For%20Freelance%20Projects-Hire%20Me-success?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-</p>
-
----
-
-### TOOLS AND TECH I USE TO BUILD STUFF !!
-
-<div align="center">
-
-| Category | Technologies and Tools |
-| :--- | :--- |
-| **Core Languages** | <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow" /> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" /> |
-| **Intelligence** | <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> |
-| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" /> <img src="https://img.shields.io/badge/gRPC-89CFF0?style=flat-square&logo=grpc&logoColor=white" /> |
-| **Frontend** | <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" /> |
-| **Infrastructure** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> |
 
 </div>
 
 ---
+
+### OVERVIEW
+
+Engineering AI systems, full-stack products, and scalable agentic pipelines. Focus lies in multi-agent architectures, privacy-preserving RAG systems, distributed background engines, and sampling/search path-planning algorithms.
+
+---
+
 
 ### FEATURED PROJECTS
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/yash27007/google-docs-clone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash27007&repo=google-docs-clone&theme=dark&hide_border=true" />
-      </a>
+    <td width="50%" valign="top">
+      <h4>Bloom IQ</h4>
+      <p>Secure, containerized AI assessment platform for university examination systems featuring curriculum-aligned question generation operating entirely on-premise.</p>
+      <p><code>Next.js</code> · <code>Vercel AI SDK</code> · <code>ChromaDB</code> · <code>Ollama</code> · <code>Docker</code></p>
+      <a href="https://github.com/yash27007/bloom-iq">Repository</a>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/yash27007/meal-planner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash27007&repo=meal-planner&theme=dark&hide_border=true" />
-      </a>
+    <td width="50%" valign="top">
+      <h4>Kortex</h4>
+      <p>3-agent pipeline for course generation featuring adaptive curricula, visual simulations, and feedback loops with event-driven execution via Inngest.</p>
+      <p><code>TypeScript</code> · <code>FastAPI</code> · <code>Inngest</code> · <code>PostgreSQL</code></p>
+      <a href="https://github.com/yash27007/kortex">Repository</a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/yash27007/bloom-iq">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash27007&repo=bloom-iq&theme=dark&hide_border=true" />
-      </a>
+    <td width="50%" valign="top">
+      <h4>Relay</h4>
+      <p>Distributed background job processing engine with a visual workflow builder, delivering reliable event-driven execution at scale.</p>
+      <p><code>Bun</code> · <code>Next.js</code> · <code>Inngest</code> · <code>tRPC</code> · <code>TanStack Query</code></p>
+      <a href="https://github.com/yash27007/relay">Repository</a>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/yash27007/ship-routing">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash27007&repo=ship-routing&theme=dark&hide_border=true" />
-      </a>
+    <td width="50%" valign="top">
+      <h4>Optimal Ship Routing</h4>
+      <p>Hybrid path-planning algorithm combining RRT* and D* to optimize maritime navigation across the Indian Ocean.</p>
+      <p><code>Python</code> · <code>C++</code> · <code>RRT*</code> · <code>D*</code> · <code>NumPy</code></p>
+      <a href="https://github.com/yash27007/ship-routing">Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Pages</h4>
+      <p>Conflict-free real-time collaborative document editor with presence tracking and document state synchronization.</p>
+      <p><code>Next.js</code> · <code>TypeScript</code> · <code>Liveblocks</code> · <code>Tiptap</code></p>
+      <a href="https://github.com/yash27007/google-docs-clone">Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Web Scraper CLI</h4>
+      <p>Concurrent command-line web scraper written in Go featuring recursive crawling, link tracking, JSON/Markdown export, and local caching.</p>
+      <p><code>Go</code> · <code>Concurrency</code> · <code>CLI</code></p>
+      <a href="https://github.com/yash27007/web-scraper">Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Anvaya</h4>
+      <p>Industrial RAG backend system for enterprise chatbots, grounding model outputs directly in organizational documentation.</p>
+      <p><code>TypeScript</code> · <code>Node.js</code> · <code>RAG</code></p>
+      <a href="https://github.com/yash27007/anvaya">Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Tinyhog</h4>
+      <p>Self-hosted miniature analytics engine and feature-flagging platform capturing events and serving percentage-based rollout flags.</p>
+      <p><code>Python</code> · <code>Analytics</code> · <code>Feature Flags</code></p>
+      <a href="https://github.com/yash27007/tinyhog">Repository</a>
     </td>
   </tr>
 </table>
-
-<br/>
 
 ---
 
-### PERFORMANCE METRICS
+### RESEARCH & PUBLICATIONS
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=yash27007&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash27007&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+- **Bloom's Taxonomy-Based AI Question Paper with Answer Generation**: Automated curriculum-aligned exam paper synthesis and evaluation pipeline.
+- **Optimized Ship Routing in the Indian Ocean using RRT* and D* Algorithms**: Algorithmic maritime path optimization balancing collision safety and travel metrics.
+- Accepted research presentations at ICICVT-2025, COMPUTATIA-2026, and ICSPA-2026.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash27007&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+---
 
-</div>
+### CONNECT
+
+- **Portfolio:** [yashwanth-aravind-portfolio.vercel.app](https://yashwanth-aravind-portfolio.vercel.app/)
+- **Email:** [work.yashwantharavind007@gmail.com](mailto:work.yashwantharavind007@gmail.com)
+- **LinkedIn:** [linkedin.com/in/yashwantharavind](https://www.linkedin.com/in/yashwantharavind)
+- **GitHub:** [github.com/yash27007](https://github.com/yash27007)
