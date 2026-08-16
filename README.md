@@ -9,16 +9,16 @@
 <br/>
 
 <p align="center">
-  <a href="https://yashwanth-aravind-portfolio.vercel.app/">
+  <a href="https://yashwanth-aravind-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-yash--aravind-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/yash27007">
+  <a href="https://github.com/yash27007" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-yash27007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/yashwantharavind">
+  <a href="https://www.linkedin.com/in/yashwantharavind" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-yashwantharavind-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:work.yashwantharavind007@gmail.com">
+  <a href="mailto:work.yashwantharavind007@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-work.yashwantharavind007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
